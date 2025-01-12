@@ -6,6 +6,7 @@ const FeLisak = {
     location: "São Paulo, Brazil 🇧🇷",
     education: "Software Engineering Major @ Inteli 🎓",
     loves: ["Vehicles 🚘", "Technology 💻", "Traveling ✈️", "Playing 🎮"],
+    peculiarity: "todos os interruptores do meu apartamento devem estar virados para o mesmo lado. Uma pequena obsessão que me ajuda a sentir que tudo está em ordem, como uma forma de organização invisível no meu dia a dia."
     contact: {
         linkedin: "linkedin.com/in/felipeklisak",
         instagram: "@fefelisak",
