@@ -33,3 +33,7 @@ const FeLisak = {
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=FeLisak&show_icons=true&theme=vision-friendly-dark" alt="FeLisak's stats"/>
 <img width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeLisak&layout=compact&theme=vision-friendly-dark" alt="FeLisak's most languages"/>
 </p>
+
+## 🫡 &nbsp;Meu Buddy
+
+Quero agradecer ao meu buddy Júpiter por todo o apoio. O [GitHub dele](https://github.com/Lukovsk) é cheio de projetos incríveis e vale muito a pena conferir!
