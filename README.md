@@ -26,10 +26,3 @@ const FeLisak = {
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=FeLisak&show_icons=true&theme=vision-friendly-dark" alt="FeLisak's stats"/>
-<img width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeLisak&layout=compact&theme=vision-friendly-dark" alt="FeLisak's most languages"/>
-</p>
